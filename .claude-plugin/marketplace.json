@@ -1,0 +1,23 @@
+{
+  "name": "suggest-skills",
+  "owner": {
+    "name": "ryoryo34",
+    "email": "ryosei4email@gmail.com"
+  },
+  "metadata": {
+    "description": "A collection of Agent Skills for analyzing conversations and suggesting skill candidates. This marketplace provides skills for evaluation-driven development, helping identify root causes of AI agent failures and proposing improvements.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "suggest-skills",
+      "description": "Analyze conversations and suggest skill candidates (evaluation-driven development). Use when asked to suggest skills, analyze conversation for improvements, find repeating patterns, or identify automation opportunities.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills"
+      ]
+    }
+  ]
+}
+
