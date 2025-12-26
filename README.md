@@ -75,8 +75,8 @@ Get started with `skill-proposer` in 3 steps:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/ryoryo34/suggest-skills.git
-   cd suggest-skills
+   git clone https://github.com/ryoryo34/skills-proposer.git
+   cd skills-proposer
    ```
 
 2. **Configure your agent**
